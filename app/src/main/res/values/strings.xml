@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejemplo 1</string>
+    <string name="buscar">Buscar país</string>
+    <string name="resultado">Seleccione un país y presione el botón Buscar</string>
+    <string-array name="paises">
+        <item>Chile</item>
+        <item>Brasil</item>
+        <item>Mexico</item>
+        <item>España</item>
+    </string-array>
+</resources>
